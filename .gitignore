@@ -1,3 +1,6 @@
 venv/
 *.sh
 .env
+calculator/
+__pycache__/
+tests.py
